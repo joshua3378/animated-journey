@@ -3,4 +3,4 @@
 
 oldfile="/tmp/aaa"
 newfile="/tmp/bbb"
-checkfile="https://github.com/joshua3378/animated-journey"
+checkfile="https://raw.githubusercontent.com/joshua3378/animated-journey/master/run.sh"
